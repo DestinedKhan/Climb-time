@@ -1,4 +1,3 @@
 # Climb-time
-Bluetooth app that communicates, sometimes, to an Arduino.
-
-This whole thing is going down
+Bluetooth app written in Flutter that communicates to an Arduino to control various LED's from a phone
+Needs to be cleaned up considerably
